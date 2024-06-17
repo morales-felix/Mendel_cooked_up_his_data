@@ -1,4 +1,11 @@
-# Mendel_cooked_up_his_data  
-In construction...  
-  
-  In essence, this is an extract from a class project in which we explored the notion that Mendel cooked up his data so it appeared impressive on his paper on pea hybridization (something that I imagine most of us learned during high school biology, dominant and recessive alleles, etc.). The summary is that Mendel's laws can be framed as Chi-square distributions. If one assumes this, and then overlays Mendel's data on top of this distribution, one can see how Mendel's data has the tails of the distribution missing. Why?
+# Mendel Cooked Up His Data?
+
+This repository contains a fun exploration from a class project investigating the theory that Gregor Mendel may have manipulated his data on pea hybridization to appear more impressive. This is the same Mendel whose laws of inheritance most of us learned in high school biology, dealing with dominant and recessive alleles.  
+
+### What's the Project About?  
+
+Mendel's laws can be expressed as Chi-square distributions. By overlaying Mendel's data onto this distribution, we notice something intriguing: the tails of the distribution are missing in Mendel's results. Why might that be?
+
+### Want to Know More?  
+
+Dive into the Jupyter notebook `mendel_may_have_cheated.ipynb` to uncover the details and see if Mendel might have cheated with his data!
